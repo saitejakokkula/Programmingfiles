@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kokkula
+ *
+ */
+module hello {
+}
